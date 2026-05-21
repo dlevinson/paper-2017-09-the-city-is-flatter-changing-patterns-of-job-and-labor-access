@@ -1,6 +1,6 @@
 # Package Status: The City Is Flatter: Changing Patterns Of Job And Labor Access
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:19:00 AEST
 
 ## Audit State
 
