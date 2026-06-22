@@ -1,5 +1,9 @@
 # The City Is Flatter: Changing Patterns Of Job And Labor Access
 
+## Contribution
+
+This paper measures how automobile accessibility changed across Minneapolis–Saint Paul from 1995 to 2005 using travel times grounded in observed network performance. It finds broad accessibility gains and spatial convergence, with faster-growing suburbs gaining most, and decomposes those changes into land-use and transportation-network contributions.
+
 Levinson, D., Marion, B., Owen, A., & Cui, M. (2017). The city is flatter: Changing patterns of job and labor access. Cities, 60(B), 124-138. https://doi.org/10.1016/j.cities.2016.08.002
 
 ## Package Status
