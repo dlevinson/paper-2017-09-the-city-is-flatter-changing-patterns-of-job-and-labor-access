@@ -1,13 +1,16 @@
 # License Status: The City Is Flatter: Changing Patterns Of Job And Labor Access
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 11:48:13 AEST
 
-Recorded license/access note from the verified audit row: Publisher terms for final article; UMN repository terms for preprint.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to author-created repository documentation, package metadata, source-decision notes, data dictionaries, manifests, rights-cleared derived package metadata, and author-created derived accessibility/workbook/GIS analysis outputs to the extent controlled by the paper authors or repository maintainers.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, matrix-construction scripts, accessibility calculation scripts, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- The publication PDF retains its publisher, repository, or manuscript terms.
+- US Census, LEHD, CTPP, MnDOT, Metropolitan Council, loop-detector, traffic-count, TAZ, highway, public-agency, source GIS, source geometry, and other upstream/source materials retain their original terms.
+- The Metropolitan Council GIS disclaimer in `data/gis/cif-shapes/notice.rtf` must remain with transmitted GIS data or derivative portions when applicable.
+- Vendor/runtime/file-format structures and application metadata are not relicensed.

@@ -1,0 +1,52 @@
+Repository License And Provenance Boundary
+
+Copyright (c) 2017-2026 David M. Levinson, Bernard Marion, Andrew Owen,
+Mengying Cui, and repository contributors
+
+This repository is a mixed research package. The license below applies only
+to materials that the paper authors or repository maintainers have rights to
+license, and it does not relicense publication PDFs, provider-governed public
+data, public-agency GIS layers, source geometry, vendor file-format
+structures, or third-party materials.
+
+## Creative Commons Attribution 4.0 International
+
+Author-created repository documentation, package metadata, source-decision
+notes, data dictionaries, manifests, and rights-cleared derived package
+metadata are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+This license also covers author-created derived accessibility tables,
+person-weighted accessibility summaries, standard-deviational-ellipse change
+metrics, and map-ready accessibility/decomposition outputs in the staged
+workbooks and GIS attributes only to the extent they consist of
+author-created selection, cleaning, integration, calculations, or analysis
+controlled by the paper authors or repository maintainers.
+
+## Materials Not Relicensed
+
+This repository license does not apply to:
+
+- The publication PDF under `paper/`, which retains its publisher,
+  repository, or manuscript terms.
+- US Census, LEHD, CTPP, MnDOT, Metropolitan Council, loop-detector,
+  traffic-count, TAZ, highway, public-agency, or other upstream/source data.
+- Metropolitan Council GIS data, GIS geometry, source boundaries, highway
+  layers, source notices, or derivative portions that must retain the
+  Metropolitan Council GIS disclaimer. The staged disclaimer in
+  `data/gis/cif-shapes/notice.rtf` must remain with transmitted GIS data or
+  derivative portions when applicable.
+- TransCAD, ArcGIS/QGIS, Microsoft Excel, LibreOffice, shapefile, geodatabase,
+  SQLite, or other vendor/runtime/file-format structures and application
+  metadata.
+- Drafts, review letters, submission files, cited references, and other
+  third-party or externally controlled materials.
+
+## Software Boundary
+
+No executable software, scripts, notebooks, model source code, matrix-
+construction scripts, accessibility calculation scripts, or paper-specific
+runtime code are staged in this repository. This root license therefore
+grants no separate software license.

@@ -1,6 +1,6 @@
 # Package Status: The City Is Flatter: Changing Patterns Of Job And Labor Access
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 11:48:13 AEST
 
 ## Audit State
 
@@ -15,15 +15,18 @@ Generated: 2026-05-21 20:19:00 AEST
 
 ## Package Checks
 
-- Files in manifest: 78
+- Files in manifest: 79
 - Paper reference files: 2
 - Code candidates: 0
 - Data candidates: 68
 - Archive candidates: 0
 - Review-only files: 0
+- Root license: `LICENSE`
 
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
-- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- Apply the root `LICENSE` only to author-created repository documentation, package metadata, source-decision notes, data dictionaries, manifests, rights-cleared derived package metadata, and author-created derived accessibility/workbook/GIS analysis outputs to the extent controlled by the paper authors or repository maintainers.
+- Treat files under `paper/` as local reference copies that retain their publisher, repository, or manuscript terms.
+- Preserve original terms and required notices for Census, LEHD, CTPP, MnDOT, Metropolitan Council, loop-detector, traffic-count, TAZ, highway, public-agency, source GIS, source geometry, and other upstream/source materials.
+- Keep `data/gis/cif-shapes/notice.rtf` with transmitted GIS data or derivative portions when applicable.
