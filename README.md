@@ -25,13 +25,33 @@ No final matrix-construction or decomposition script bundle was found in the che
 
 Checked: 2026-05-17 22:10:53
 
+## Rights And License
+
+See `LICENSE` for the operative repository license and provenance boundary.
+CC BY 4.0 applies only to author-created repository documentation, package
+metadata, source-decision notes, data dictionaries, manifests, and
+rights-cleared derived package metadata. It also covers author-created
+derived accessibility tables, person-weighted accessibility summaries,
+standard-deviational-ellipse change metrics, and map-ready
+accessibility/decomposition outputs in the staged workbooks and GIS
+attributes only to the extent they consist of author-created selection,
+cleaning, integration, calculations, or analysis controlled by the paper
+authors or repository maintainers.
+
+The publication PDF, US Census, LEHD, CTPP, MnDOT, Metropolitan Council,
+loop-detector, traffic-count, TAZ, highway, public-agency, source GIS, source
+geometry, vendor/runtime/file-format structures, and other third-party
+materials retain their original terms. The Metropolitan Council GIS
+disclaimer in `data/gis/cif-shapes/notice.rtf` must remain with transmitted
+GIS data or derivative portions when applicable.
+
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 11:48:13 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
-- Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- Sidecars added/updated: `LICENSE`, `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Paper reference copies are for local audit convenience and retain their publication terms.
+- Final GitHub upload should use the manifest include statuses and the operative license boundary.
 <!-- package-hardening-status:end -->
